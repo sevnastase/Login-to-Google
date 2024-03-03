@@ -1,0 +1,22 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Sever-Mihai",
+    "Nastase"
+  ],
+  "author": "Sever-Mihai Nastase",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "package.json": "^2.0.1",
+    "session": "^0.1.0"
+  }
+}
